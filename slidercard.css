@@ -1,3 +1,10 @@
 .card .img img{
     width: 140px;
+    height: 140px;
+    object-fit: cover;
+}
+body{
+    display: flex;
+    align-items: center;
+    
 }
