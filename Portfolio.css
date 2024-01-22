@@ -32,6 +32,7 @@ Header{
 Header.sticky{
     padding: 5px 100px;
     background: #fff;
+    color: black;
 }
 .logo{
     position: relative;
