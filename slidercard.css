@@ -1,3 +1,10 @@
+body{
+    padding: 0 35px;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
 
 .wrapper{
     max-width: 1100px;
@@ -31,9 +38,7 @@
     border-radius: 50%;
 
 }
-body{
-    padding: 0 35px;
-}
+
 #words{
     color: black;
 }
