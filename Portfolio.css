@@ -11,7 +11,7 @@
 }
 
 body{
-    background: linear-gradient( 90deg, rgba(74,72,91,1) 0%, rgba(116,98,177,1) 36%, rgba(89,45,233,1) 61%, rgba(59,0,255,1) 100%);
+    background: rgb(107, 105, 118);
     min-height: 200vh;
     color: white;
 }
@@ -26,7 +26,7 @@ Header{
     transition: 0.6s;
     padding: 40px 100px;
     z-index: 100000;
-    background-color: grey;
+    background-color: rgb(37, 37, 37);
 
 }
 Header.sticky{
@@ -117,7 +117,7 @@ Header.sticky{
 .logo{
     position: relative;
     font-weight: 700;
-    color: black;
+    color: white;
     text-decoration: none;
     font-size: 2em;
     text-decoration: none;
@@ -136,7 +136,7 @@ ul{
     position: relative;
     margin: 0 15px;
     text-decoration: none;
-    color: black;
+    color: white;
     letter-spacing: 2px;
     font-weight: 500px;
     transition: 0.6s;
