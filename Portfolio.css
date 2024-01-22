@@ -11,7 +11,7 @@
 }
 
 body{
-    background: linear-gradient(90deg, rgba(74,72,91,1) 0%, rgba(59,0,255,1) 100%);
+    background: linear-gradient(to left top, 90deg, rgba(74,72,91,1) 0%, rgba(116,98,177,1) 36%, rgba(89,45,233,1) 61%, rgba(59,0,255,1) 100%);
     min-height: 200vh;
     color: white;
 }
