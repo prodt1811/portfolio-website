@@ -176,5 +176,6 @@ ul{
     height: 150px;
     width: 400px;
     border-radius: 8px;
-
+    list-style: none;
+    margin-left: 500px;
 }
