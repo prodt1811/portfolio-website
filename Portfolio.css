@@ -174,5 +174,12 @@ ul{
 #Introduction{
     color: white;
     margin-left: 500px;
+    list-style: none;
+}
+#Heding{
+    margin-left: 10px;
     font-size: 30px;
+}
+#intro{
+    font-size: 20px;
 }
