@@ -14,6 +14,7 @@ body{
     
     min-height: 200vh;
     color: white;
+    background-color: rgb(18, 130, 162) ;
 }
 Header{
     position: fixed;
@@ -183,10 +184,5 @@ ul{
 }
 #intro{
     font-size: 27px;
-    
-}
-#ONE{
-    background-color:rgb(18, 130, 162) ;
-    width: 100%;
     
 }
