@@ -171,3 +171,10 @@ ul{
     
     border-color: white;
 }
+#Introduction{
+    background:#fff;
+    height: 100px;
+    width:100px;
+    border-radius: 8px;
+
+}
