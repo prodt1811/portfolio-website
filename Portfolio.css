@@ -192,3 +192,9 @@ ul{
 .Join-para{
     align-self: center;
 }
+#Join-Head{
+    font-size: 50px;
+}
+#Join-reason{
+    align-items: center;
+}
