@@ -37,7 +37,9 @@ body{
 
 }
 
-
+.words{
+    color: black;
+}
 .About-Me-h2{
     color: black;
 }
