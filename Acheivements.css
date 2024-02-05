@@ -10,7 +10,7 @@ body{
     width: 100%;
     background-color: grey;
     padding: 40px 0;
-        
+
 }
 
 .slide-content{
@@ -66,7 +66,7 @@ body{
     background-color: #FFF;
 }
 
-}
+
 .card-image{
     position: relative;
     height: 150px;
