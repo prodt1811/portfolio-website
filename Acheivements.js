@@ -4,7 +4,6 @@ let isDragging = false;
 
 const dragStart = () => {
     isDragging = true;
-
 }
 
 const dragging = (e) => {
