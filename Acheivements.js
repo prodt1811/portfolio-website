@@ -12,5 +12,5 @@ const dragging = (e) => {
     carousel.scrollLeft = e.pageX;
 }
 
-carousel.addEventListener("mousedown",isDragging)
+carousel.addEventListener("mousedown",dragStart)
 carousel.addEventListener("mousemove",dragging)
