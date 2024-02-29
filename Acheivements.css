@@ -37,7 +37,7 @@ body{
     left: -22px
 }
 .wrapper i:last-child{
-    right;: -22px
+    right: -22px ;
 }
 .wrapper .carousel{
     display: grid;
