@@ -1,15 +1,10 @@
-const carousel = document.querySelector (".carousel");
+const arrowBtns = document.querySelectorAll(".wrapper i");
+const carousel = document.querySelector(".carousel");
+const firstCardWidth = carousel.querySelector(".card").offsetWidth;
 
-let isDragging = false;
 
-const dragStart = () =>{
-    isDragging = true
-}
-
-const dragging = (e) =>{
-    if(!isDragging) return;
-    carousel.scrollLeft = e.pageX;
-}
-
-carousel.addEventListener("mousedown",dragStart);
-carousel.addEventListener("mousemove", dragging)
+arrowBtns.forEach(btn => {
+    btn.addEventListener("click", ()=> {
+        carousel.scrollLeft += btn.id === "left" ? -firstCardWidth : firstCardWidth;
+    })
+});
