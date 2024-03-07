@@ -1,6 +1,7 @@
 const arrowBtns = document.querySelectorAll(".wrapper i");
 const carousel = document.querySelector(".carousel");
 const firstCardWidth = carousel.querySelector(".card").offsetWidth;
+const carouselChildrens = [...carousel];
 
 
 arrowBtns.forEach(btn => {
