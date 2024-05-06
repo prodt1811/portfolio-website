@@ -11,12 +11,20 @@ body{
     justify-content: center;
     min-height: 100vh;
     padding: 0 35px;
-    background-color: cyan;
+    background-color: rgb(49, 51, 51);
 
 }
+#outer{
+    justify-content: center;
+    align-items: center;
+}
 #qwei{
-    height: 200px;
+    height: 100px;
+    color: white;
 
+}
+#title{
+    size: 60px;
 }
 .wrapper{
     max-width: 1100px;
