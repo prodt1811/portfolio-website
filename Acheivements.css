@@ -24,7 +24,8 @@ body{
 
 }
 #title{
-    size: 100000px;
+    font-size: 50px;
+    justify-content: center;
 }
 .wrapper{
     max-width: 1100px;
