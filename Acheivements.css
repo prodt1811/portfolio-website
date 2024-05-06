@@ -21,11 +21,12 @@ body{
 #qwei{
     height: 100px;
     color: white;
+    align-items: center;
 
 }
 #title{
     font-size: 50px;
-    justify-content: center;
+    
 }
 .wrapper{
     max-width: 1100px;
